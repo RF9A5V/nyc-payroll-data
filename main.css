@@ -1,0 +1,25 @@
+.payroll {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 5px;
+}
+
+.payroll-item {
+    padding: 20px;
+    background-color: #AAA;
+    border-radius: 3px;
+}
+
+.nyc-housing-authority {
+    background-color: steelblue;
+}
+
+.dept-of-ed-pedagogical {
+    background-color: salmon;
+}
+
+select {
+    margin-bottom: 10px;
+    padding: 5px;
+    border-radius: 3px;
+}
